@@ -1,0 +1,33 @@
+* {
+    font-family: sans-serif;
+}
+
+#image {
+    width: 100%;
+}
+
+.vraag h1 {
+    font-size: 20px;
+}
+
+.vraag h2 {
+    font-size: 17px;
+}
+
+.vraag {
+    margin-right: 50px;
+    padding-left: 20px;
+    width: 35vw;
+}
+
+.vraag .input-group {
+    width: 25%;
+}
+
+#antwoord_input {
+    width: 10% !important;
+}
+
+#som_antwoord {
+    visibility: hidden;
+}
